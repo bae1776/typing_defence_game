@@ -6,7 +6,7 @@ Simple Linux C games (System Programming 2023-2학기 최종 과제)
  *   단어는 무작위로 선택되며, 시간이 갈 수록 빠르게 쳐야 합니다. (리눅스 명령어 영문 메뉴얼들 중에서 무작위, 메뉴얼 내 단어 중에서 무작위 선택됨)
  *   최대한 많은 점수를 얻어보세요!
 
-[2] 관련 레포트 (Korean) : 레포지토리 내 typing defence game.pdf 참고
+[2] 관련 레포트 (Korean) : 레포지토리 내 "./typing defence report.pdf" 참고
 
 프로젝트 소개 및 실행 방법이 들어 있습니다.
 
