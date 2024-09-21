@@ -11,5 +11,8 @@ Simple Linux C games (System Programming 2023-2학기 최종 과제)
 2. Go to Directory (including all files in this repository) using cd command
 3. type "make run"   (cmake may be required)
  ![image](https://github.com/user-attachments/assets/a2cb64c1-c42c-429c-8363-322a3279a5e1) 
+
+
 4. play game
+
  ![image](https://github.com/user-attachments/assets/52e88438-f6f6-462b-95a5-d2001738c291)
