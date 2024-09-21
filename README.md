@@ -2,7 +2,8 @@
 Simple Linux C games (System Programming 2023-2학기 최종 과제)
 
 [1] Report (Korean)
-[typing defence report.pdf](https://github.com/user-attachments/files/17084407/typing.defence.report.pdf)
+[typing defence report.pdf](https://github.com/user-attachments/files/17084407/typing.defence.report.pdf)  
+
 프로젝트 소개 및 실행 방법이 들어 있습니다.
 
 [2] How to run?
